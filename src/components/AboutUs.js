@@ -7,7 +7,7 @@ const AboutUs = () => {
         <div style={{
             display: 'flex', justifyContent: 'center', alignItems: 'center'
         }}>
-            < div >
+            <div>
                 <div className="containerAboutUs">
                     <h1><b>О НАС</b></h1>
                     <p>Qaiyrym — это альтернативный метод по сбору средств, необходимых для дорогостоящего лечения.</p>

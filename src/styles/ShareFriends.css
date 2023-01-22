@@ -1,0 +1,741 @@
+@media (min-width: 1281px) and (max-width: 2500px) {
+    .containerShare {
+        display: flex;
+        width: 1083px;
+        height: 303px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .image {
+        height: 303px;
+        width: 463px;
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        display: inline-block;
+        align-items: 'center';
+    }
+    .shareText {
+        margin-top: 15px;
+        font-family: 'Montserrat';
+        font-size: 37px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 25px;
+    }
+    .heartIcon {
+        width: 85px;
+        height: 85px;
+    }
+    .shareFriendsButton {
+        margin-top: 10px;
+        width: 302px;
+        height: 40px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 1180px) and (max-width: 1280px) {
+    .containerShare {
+        display: flex;
+        width: 1083px;
+        height: 303px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .image {
+        height: 303px;
+        width: 463px;
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .shareText {
+        margin-top: 15px;
+        font-family: 'Montserrat';
+        font-size: 37px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 25px;
+    }
+    .heartIcon {
+        width: 85px;
+        height: 85px;
+
+    }
+    .shareFriendsButton {
+        margin-top: 10px;
+        width: 302px;
+        height: 40px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 1080px) and (max-width: 1179px) {
+    .containerShare {
+        display: flex;
+        width: 980px;
+        height: 303px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .image {
+        height: 303px;
+        width: 413px;
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .shareText {
+        margin-top: 15px;
+        font-family: 'Montserrat';
+        font-size: 37px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 25px;
+    }
+    .heartIcon {
+        width: 85px;
+        height: 85px;
+
+    }
+    .shareFriendsButton {
+        margin-top: 10px;
+        width: 302px;
+        height: 40px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 980px) and (max-width: 1079px) {
+    .containerShare {
+        display: flex;
+        width: 883px;
+        height: 303px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .image {
+        height: 303px;
+        width: 363px;
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .shareText {
+        margin-top: 15px;
+        font-family: 'Montserrat';
+        font-size: 37px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 25px;
+    }
+    .heartIcon {
+        width: 85px;
+        height: 85px;
+
+    }
+    .shareFriendsButton {
+        margin-top: 10px;
+        width: 302px;
+        height: 40px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 30px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 880px) and (max-width: 979px) {
+    .containerShare {
+        display: flex;
+        width: 783px;
+        height: 273px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .image {
+        height: 273px;
+        width: 313px;
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .shareText {
+        margin-top: 15px;
+        font-family: 'Montserrat';
+        font-size: 30px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 18px;
+    }
+    .heartIcon {
+        width: 85px;
+        height: 85px;
+
+    }
+    .shareFriendsButton {
+        margin-top: 10px;
+        width: 282px;
+        height: 40px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 17px;
+        line-height: 30px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 780px) and (max-width: 879px) {
+    .containerShare {
+        display: flex;
+        width: 683px;
+        height: 273px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .containerImage {  
+        height: 273px;
+        width: 313px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        height: 273px;
+        width: 273px;
+
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .shareText {
+        margin-top: 15px;
+        font-family: 'Montserrat';
+        font-size: 30px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 18px;
+    }
+    .heartIcon {
+        width: 75px;
+        height: 75px;
+
+    }
+    .shareFriendsButton {
+        margin-top: 10px;
+        width: 302px;
+        height: 40px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 17px;
+        line-height: 30px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 680px) and (max-width: 779px) {
+    .containerShare {
+        display: flex;
+        width: 583px;
+        height: 253px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .containerImage {  
+        height: 253px;
+        width: 253px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        height: 253px;
+        width: 253px;
+
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .shareText {
+        margin-top: 15px;
+        font-family: 'Montserrat';
+        font-size: 25px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 13px;
+    }
+    .heartIcon {
+        width: 75px;
+        height: 75px;
+    }
+    .shareFriendsButton {
+        margin-top: 10px;
+        width: 212px;
+        height: 40px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 35px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 580px) and (max-width: 679px) {
+    .containerShare {
+        display: flex;
+        width: 483px;
+        height: 213px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .containerImage {  
+        height: 213px;
+        width: 213px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        height: 213px;
+        width: 213px;
+
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .shareText {
+        margin-top: 10px;
+        font-family: 'Montserrat';
+        font-size: 21px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 13px;
+    }
+    .heartIcon {
+        width: 65px;
+        height: 65px;
+    }
+    .shareFriendsButton {
+        margin-top: 5px;
+        width: 182px;
+        height: 30px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 13px;
+        line-height: 24px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 480px) and (max-width: 579px) {
+    .containerShare {
+        display: flex;
+        width: 383px;
+        height: 173px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .containerImage {  
+        height: 173px;
+        width: 173px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        height: 173px;
+        width: 173px;
+
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+        align-items: center;
+        justify-content: center;
+    }
+    .shareText {
+        margin-top: 6px;
+        font-family: 'Montserrat';
+        font-size: 16px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 11px;
+    }
+    .heartIcon {
+        width: 45px;
+        height: 45px;
+    }
+    .shareFriendsButton {
+        margin-top: 4px;
+        width: 142px;
+        height: 25px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 11px;
+        line-height: 19px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 380px) and (max-width: 479px) {
+    .containerShare {
+        display: flex;
+        width: 283px;
+        height: 133px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .containerImage {  
+        height: 133px;
+        width: 133px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        height: 133px;
+        width: 133px;
+
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .shareText {
+        margin-top: 6px;
+        font-family: 'Montserrat';
+        font-size: 12px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 8px;
+    }
+    .heartIcon {
+        width: 33px;
+        height: 33px;
+    }
+    .shareFriendsButton {
+        width: 102px;
+        height: 15px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 7px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 280px) and (max-width: 379px) {
+    .containerShare {
+        display: flex;
+        width: 283px;
+        height: 133px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .containerImage {  
+        height: 133px;
+        width: 133px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        height: 133px;
+        width: 133px;
+
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .shareText {
+        margin-top: 6px;
+        font-family: 'Montserrat';
+        font-size: 12px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 8px;
+    }
+    .heartIcon {
+        width: 33px;
+        height: 33px;
+    }
+    .shareFriendsButton {
+        width: 102px;
+        height: 15px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 7px;
+
+        color: #000000;
+    }
+}
+@media (min-width: 180px) and (max-width: 279px) {
+    .containerShare {
+        display: flex;
+        width: 283px;
+        height: 133px;
+        margin-top: 100px;
+        margin-bottom: 100px;
+        background-color: #FFFFFF;
+        border: 1px solid #D9D9D9;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 28px;
+    }
+    .containerImage {  
+        height: 133px;
+        width: 133px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+    .image {
+        height: 133px;
+        width: 133px;
+
+        border-radius: 28px;
+        border: 1px solid #D9D9D9;
+    }
+    .textContainer {
+        height: 100%;
+        width: 100%;
+        display: block;
+        text-align: center;
+    }
+    .shareText {
+        margin-top: 6px;
+        font-family: 'Montserrat';
+        font-size: 12px;
+    }
+    .makeText {
+        font-family: 'Montserrat';
+        font-size: 8px;
+    }
+    .heartIcon {
+        width: 33px;
+        height: 33px;
+    }
+    .shareFriendsButton {
+        width: 102px;
+        height: 15px;
+
+        background: #FFD12F;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        border-radius: 13px;
+        border: none;
+
+        font-family: 'Montserrat';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 7px;
+
+        color: #000000;
+    }
+}
